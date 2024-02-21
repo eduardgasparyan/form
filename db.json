@@ -107,11 +107,11 @@
               "quotationMarks": true
             }
           }
-        ]
+        ],
+       "submit": {
+         "message": "Submitted"
+        }
       }
     }
-  },
-  "submit": {
-    "message": "Submitted"
   }
 }
