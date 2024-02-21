@@ -1,8 +1,6 @@
 {
   "posts": [
     {
-      "questions": [
-    {
       "name": "welcome-screen",
       "id": "jg1401r",
       "attributes": {
@@ -105,8 +103,6 @@
         "buttonText": "Continue",
         "quotationMarks": true
       }
-    }
-  ]
     }
   ],
   "profile": {
