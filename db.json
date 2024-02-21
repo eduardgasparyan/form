@@ -1,5 +1,8 @@
 {
-  "posts": [
+  "api": {
+    "v1": {
+      "form": {
+        "blocks": [
     {
       "name": "welcome-screen",
       "id": "jg1401r",
@@ -105,7 +108,10 @@
       }
     }
   ],
-  "profile": {
-    "name": "typicode"
+      }
+    }
   }
+  "submit": [
+    "message": "Submitted"
+  ]
 }
